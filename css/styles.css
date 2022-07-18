@@ -75,11 +75,10 @@ body {
 
 .self-introduction{
   color: #40514E;
-  text-align: center;
 }
 
 .profile{
-  padding: 0 35% 0 35%;
+  margin: auto 25rem auto 25rem;
   line-height: 2;
 
 }
